@@ -4,8 +4,8 @@
         "icon": "icon.png",
         "category": "Game",
         "carousel_assets": [
-            "1.png",
-            "2.png"
+            "1.webp",
+            "2.webp"
         ],
         "base_url": "/apps/Dice_Roller/",
         "file": "/app/dice_roller_1.0.0.apk",
