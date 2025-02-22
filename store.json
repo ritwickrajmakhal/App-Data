@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Dice Roller",
+        "icon": "icon.png",
+        "category": "Game",
+        "carousel_assets": [
+            "1.png",
+            "2.png"
+        ],
+        "base_url": "/apps/Dice_Roller/",
+        "file": "/app/dice_roller_1.0.0.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Feb 22, 2025",
+        "android_OS": "4.1",
+        "version": "1.0.0",
+        "content": "Dice Roller is a simple app that allows you to roll dice. You can roll up to 6 dice at a time and the app will display the total of the dice rolled. The app also keeps a history of the dice rolls so you can easily see what you rolled in the past."
+    }
+]
