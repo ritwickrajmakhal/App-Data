@@ -4,8 +4,7 @@
         "icon": "icon.png",
         "category": "Game",
         "carousel_assets": [
-            "1.webp",
-            "2.webp"
+            "1.webp"
         ],
         "base_url": "/apps/Dice_Roller/",
         "file": "/app/dice_roller_1.0.0.apk",
@@ -14,6 +13,23 @@
         "date": "Feb 22, 2025",
         "android_OS": "4.1",
         "version": "1.0.0",
-        "content": "Dice Roller is a simple app that allows you to roll dice. You can roll up to 6 dice at a time and the app will display the total of the dice rolled. The app also keeps a history of the dice rolls so you can easily see what you rolled in the past."
+        "content": "Dice Roller is a simple app that allows you to roll dice. You can choose the number of dice and the number of sides on each die. It's great for playing board games or role-playing games."
+    },
+    {
+        "name": "Expense Tracker",
+        "icon": "icon.png",
+        "category": "Productivity",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp"
+        ],
+        "base_url": "/apps/Expense_Tracker/",
+        "file": "/app/expense_tracker_1.0.0.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Feb 26, 2025",
+        "android_OS": "4.1",
+        "version": "1.0.0",
+        "content": "Expense Tracker is a simple app that allows you to track your expenses. You can add expenses, categorize them, and view reports of your spending. It's great for managing your budget and keeping track of your finances."
     }
 ]
