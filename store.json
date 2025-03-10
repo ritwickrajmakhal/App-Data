@@ -31,5 +31,23 @@
         "android_OS": "4.1",
         "version": "1.0.0",
         "content": "Expense Tracker is a simple app that allows you to track your expenses. You can add expenses, categorize them, and view reports of your spending. It's great for managing your budget and keeping track of your finances."
+    },
+    {
+        "name": "Favorite Places",
+        "icon": "icon.png",
+        "category": "Travel & Local",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "base_url": "/apps/Favorite_Places/",
+        "file": "/app/favorite_places_1.0.0.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Mar 10, 2025",
+        "android_OS": "4.1",
+        "version": "1.0.0",
+        "content": "Favorite Places is a simple app that allows you to save your favorite places. You can add locations, categorize them, and view them on a map. It's great for keeping track of places you want to visit or places you frequent."
     }
 ]
