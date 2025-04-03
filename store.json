@@ -49,5 +49,25 @@
         "android_OS": "4.1",
         "version": "1.0.0",
         "content": "Favorite Places is a simple app that allows you to save your favorite places. You can add locations, categorize them, and view them on a map. It's great for keeping track of places you want to visit or places you frequent."
+    },
+    {
+        "name": "Air Mind",
+        "icon": "icon.png",
+        "category": "Productivity",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp",
+            "4.webp",
+            "5.webp"
+        ],
+        "base_url": "/apps/Air_Mind/",
+        "file": "/app/air_mind_1.0.0.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "Apr 03, 2025",
+        "android_OS": "4.1",
+        "version": "1.0.0",
+        "content": "Talk with any database, and get the information you need. Air Mind is a simple app that allows you to connect with any database and get the information you need. You can ask questions, and the app will provide you with the answers. It's great for getting quick information without having to search for it."
     }
 ]
