@@ -69,5 +69,22 @@
         "android_OS": "4.1",
         "version": "1.0.0",
         "content": "Talk with any database, and get the information you need. AirMind is a simple app that allows you to connect with any database and get the information you need. You can ask questions, and the app will provide you with the answers. It's great for getting quick information without having to search for it."
+    },
+    {
+        "name": "Birthday Reminder",
+        "icon": "icon.png",
+        "category": "Productivity",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp"
+        ],
+        "base_url": "/apps/birthday_reminder/",
+        "file": "/app/birthday_reminder_1.0.0.apk",
+        "pwa_link": "",
+        "type": "app",
+        "date": "May 04, 2025",
+        "android_OS": "4.1",
+        "version": "1.0.0",
+        "content": "Birthday Reminder is a simple app that allows you to keep track of birthdays. You can add birthdays, set reminders, and view a list of upcoming birthdays. It's great for remembering important dates and keeping in touch with friends and family."
     }
 ]
