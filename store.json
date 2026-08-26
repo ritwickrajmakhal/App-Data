@@ -104,5 +104,23 @@
         "android_OS": "4.1",
         "version": "1.0.0",
         "content": "AI Studio is a simple app that allows you to use Google's Generative AI services. You can create images, text, and more using the power of AI. It's great for generating content quickly and easily."
+    },
+    {
+        "name": "Gram Khalna Bus",
+        "icon": "icon.png",
+        "category": "Productivity",
+        "carousel_assets": [
+            "1.webp",
+            "2.webp",
+            "3.webp"
+        ],
+        "base_url": "/apps/Gram_Khalna_Bus/",
+        "file": "/app/Gram_Khalna_Bus_0.1.0.apk",
+        "pwa_link": "https://bus.khalna.in",
+        "type": "app",
+        "date": "Apr 03, 2025",
+        "android_OS": "4.1",
+        "version": "0.1.0",
+        "content": "Gram Khalna Bus is a modern mobile web application designed to help passengers track bus trips, share live coordinates, and check crowdsourced updates for the local bus route."
     }
 ]
